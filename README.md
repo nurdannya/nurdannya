@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, saya Nur Dannya! 👋
 
-<!--
-**nurdannya/nurdannya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang ke profil GitHub saya! Saya sedang mempelajari perisian, pengaturcaraan, dan teknologi baharu.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mengenai Saya
+- 🎓 **Status:** Baru belajar GitHub & pembangunan perisian.
+- 🎯 **Fokus Sekarang:** Mempelajari asas-asas *coding* dan pengurusan projek.
+- 💡 **Minat:** [Masukkan minat anda, contoh: Pembangunan Web / Sains Data / Reka Bentuk UI/UX]
+- 📫 **Hubungi Saya:** [Masukkan e-mel atau pautan LinkedIn anda]
+
+---
+
+### 🛠️ Kemahiran & Alat (Tech Stack)
+*Sedang dipelajari:*
+- **Bahasa:** HTML, CSS, JavaScript / Python *(pilih atau ubah mengikut apa yang anda belajar)*
+- **Alat:** Git, GitHub, VS Code
+
+---
+
+### 📊 Statistik GitHub
+*(Bahagian ini akan dikemas kini secara automatik oleh GitHub)*
+
+![Kad Statistik GitHub](https://github-readme-stats.vercel.app/api?username=NAMA_USERNAME_ANDA&show_icons=true&theme=radial)
+
+---
+
+> *"Setiap pakar bermula dari seorang pemula."* ✨
