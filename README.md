@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nur Dannya</h1>
+<h1 align="center">Hi, I'm Nur Dannya</h1>
 <h3 align="center">A passionate beginner exploring Software Development & Tech</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nurdannya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Learning+something+new+every+day.;Building+my+tech+skills!" alt="Typing SVG" />
@@ -11,8 +17,8 @@
 
 - 🎓 **Status:** Currently learning software development, Git, and GitHub.
 - 🎯 **Current Focus:** Building strong fundamentals in web development and programming.
-- 💡 **Interests:** [Add your interests, e.g., Web Development / UI/UX Design / Data Science]
-- 📫 **How to reach me:** [Your Email or LinkedIn URL]
+- 💡 **Interests:** Web Development / UI/UX Design / Data Science
+- 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/nurdannya)
 
 ---
 
@@ -34,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurDannya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurDannya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
